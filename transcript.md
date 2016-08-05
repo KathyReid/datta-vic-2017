@@ -34,6 +34,21 @@ We're still a little way away from the Minority report style gesture control - b
 
 For all the talk of gesture control, tablet control etc, there's still research and development going on established devices - such as keyboards.
 
+Source Citation   (MLA 7th Edition)
+Ishii, Hiroshi. "The tangible user interface and its evolution." Communications of the ACM June 2008: 32+. Expanded Academic ASAP. Web. 4 Aug. 2016.
+URL
+http://ezproxy.deakin.edu.au/login?url=http://go.galegroup.com/ps/i.do?id=GALE%7CA180723121&v=2.1&u=deakin&it=r&p=EAIM&sw=w&asid=fb21fefd9560c521ad947e3f566a958c
+
+
+Koskela - *pattern control* versus *instant control*
+context aware functions - context menus - but now we're seein physical context - environmental UIs.
+
+What happens when environmental UIs and emotional UIs collide?
+Conversational UIs that can tell when people are pissed off?
+Will the colour of digital signage change to something more soothing?
+
+Trust in the user interface - what happens then the user interface is not just around us, but inside us?
+
 Examples of kickstarter projects for keyboards
 
 https://www.kickstarter.com/projects/keyboardio/the-model-01-an-heirloom-grade-keyboard-for-seriou
@@ -48,6 +63,17 @@ So what are the implications for this for practitioners
 OK Google - Siri - they are part of larger brands.
 
 Just like brands - interaction families will have a personality or flavour - for instance a corporate with a focus on efficiency may have an interaction family which is spartan, quick, with a minimum of movement or sound. A more social or fun brand may have an interaction family which focuses on lots of verbal interaction or fun gestures.
+
+Location awareness and gaze tracking are needed for speech recognition - Microsoft paper - early 2000s
+
+Ninja sphere - gesture control and swiping
+Cognitoys Dino - voice recognition - toy interface design
+Wiimote - take in the Wiimote to show off
+
+Haber et al - intimate space, personal space, social space, public space - does the user interface know which one it's operating in?
+
+http://developer.affectiva.com/ - emotional API
+
 
 
 
