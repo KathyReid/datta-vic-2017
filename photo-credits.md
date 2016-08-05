@@ -1,73 +1,30 @@
-Bernard Goldbach
-First Computer Bug 450909
-Grace Hopper found the first computer bug on 9 September 1945 and she recorded the event in the system log.
-https://www.flickr.com/photos/topgold/2842497804
+
+clement127
+Chained
+https://www.flickr.com/photos/clement127/15913224501/in/photolist-qfcreF-6JLiFq-6HyLVz-8H9mxb-PMm5z-cZxis7-q7Jt5d-75xGxj-7TM6Kq-74kr9F-cxi6yf-7Ki31g-istFxY-7J6RvM-77oSQ4-2Hi6hS-82qWxi-fvnnP9-5nWz4o-AEFWT-qK337m-aiick-q9rF5r-rSdFLj-ohhk4h-9tTkt-oJj6fj-aUieVt-npWswY-6GZ9Uy-nF1eMJ-7xasj7-gzf7Ap-b2cN6r-99xoBV-97Aq2T-bsYnTi-ajgAN9-4sT9hP-jVGTAY-dKAXEj-7eWEBv-g3NT71-HVQvX-edRxw3-6tmSW6-jP2Adr-q79rW9-7hEf56-r4a1WD
+
+Arkadiusz Sikorski
+Terminal Znakowy MERA 7951 OM Mera-ELZAB MERAMAT
+
+Zdjęcia Arkadiusz Sikorski © 2013 | / www.arq.pl/ | www.sikorski.art.pl/
+
+https://www.flickr.com/photos/arakus/8877604417/in/photolist-ewu3v8-7BkTc-rAHF2M-qdKLit-8vqT6P-qbW78-4aL19C-bdxkxc-nuxizZ-8QZwY6-cStqA7-yPc5M-9o5Ycc-8YHM7W-ewxdoo-avZseR-7QwVZK-9ASaDw-9ASaJY-5e3Jei-697j43-6aZ82b-4fjy3r-aYrDbi-9rK3oA-qzDHQr-4KKdF4-4CmBeQ-68Eagx-5ofd2r-cPjP47-793WmJ-ovRfd8-8mi6aq-8xyzJd-dES9JZ-oxhkBB-6Jjd63-hoUCod-4tQEUS-qTKdp-igsDw9-8GaC9h-aJugdP-7wxduC-4owCYw-aJwUfX-7DQ3RH-5dAhD1-aJwNjn
+
+Marcin Wichary
+Macintosh mouse
+https://flic.kr/p/6z3xSg
+
+Shou-Hui Wang
+BAMBOOFun16
+https://flic.kr/p/4v358f
+
+India7 Network
+Asus TX201LA Transformer Book Series Laptop
+https://flic.kr/p/myPbWs
 
 
-Two women operating the ENIAC's main control panel while the machine was still located at the Moore School. "U.S. Army Photo" from the archives of the ARL Technical Library. Left: Betty Jennings (Mrs. Bartik) Right: Frances Bilas (Mrs. Spence) setting up the ENIAC. Betty has her left hand moving some dials on a panel while Frances is turning a dial on the master programmer. There is a portable function table C resting on a cart with wheels on the right side of the image. Text on piece of paper affixed to verso side reads "Picture 27 Miss Betty Jennings and Miss Frances Bilas (right) setting up a part of the ENIAC. Miss Bilas is arranging the program settings on the Master Programmer. Note the portable function table on her right.". Written in pencil on small white round label on original protective sleeve was "1108-6".
-https://en.wikipedia.org/wiki/File:Two_women_operating_ENIAC.gif
+Francisco Huguenin Uhlfelder
+infrared keyboard on a table for your iPhone
 
-
-
-
-Photo: From the IBM 608 Calculator Manual of Operation, Form 22-6666-1 (1957).
-
-Developed in the mid-1950s as part of IBM's Modular Accounting Calculator (MAC) program, the IBM 608 is a transistorized version of the 604 that "combines the newest advances in electronics to perform the mathematical operations of addition, subtraction, multiplication, and division. It uses transistors, magnetic core memory and printed card circuits to perform these functions upon factors punched in IBM cards ... The 608 operates on transistors – tiny germanium devices no larger than a paper clip – without using a single vacuum tube. Magnetic cores, which make up the memory of the machines, will retain stored information on a normal power shut-down. This is the first known use of transistors and cores together in a commercial computer. These components save valuable office space by reducing computer size 50 percent, and reduce power requirements and heat 90 percent over a comparable vacuum tube model ... The standard machine contains forty 9-digit words of magnetic core storage, a complement of 80 program steps, and an 18-position accumulator." Transistor circuits were packaged in standardized modules -- Standard Modular System (SMS) technology. Pictured: the 608 Calculator itself (left) and its i/o device, the 535 Reader Punch (right). Each unit has its own plugboard.
-http://www.columbia.edu/cu/computinghistory/608.html
-
-
-
-Chris Limb
-Punch card
-An old computer punch card from Sussex University
-https://flic.kr/p/6zRRK2
-
-
-Paul Townsend
-1970′s inventions that changed our way of life
-Technology, Fashion and Toys played an increasingly important part in people's lives in the 70s.
-https://flic.kr/p/iNpH9k
-
-
-ITU Pictures
-1990-01
-Former physicist, Tim Berners-Lee invented the World Wide Web as an essential tool for high energy physics at CERN from 1989 to 1994. Together with a small team he conceived HTML, http, URLs, and put up the first server and the first 'what you see is what you get' browser and html editor. Tim is now Director of the Web Consortium W3C, the International Web standards body based at INRIA, MIT and Keio University. Date: 11 Jul 1994 [CERN 9407011_31.JPG]
-https://flic.kr/p/rooQ5B
-
-
-
-"540c open". Licensed under CC BY-SA 2.5 via Commons - https://commons.wikimedia.org/wiki/File:540c_open.jpg#/media/File:540c_open.jpg
-
-
-Stephan Ridgway
-Notebook Trolley - rear view
-
-Notebook trolley which holds up to 10 notebook computers. Used to transport the notebooks used in the wireless hotspot in the LearnSpace, TAFE NSW - Sydney Institute, Ultimo Campus. Set up as part of the TOL2 - Access to New Technologies (ANT) project 2007.
-https://flic.kr/p/S5u2P
-
-
-Jeremy Keith
-Devices
-https://flic.kr/p/bB5WUj
-
-
-Micah Baldwin
-Micah's DNA
-This is a image of my actual dna.
-https://flic.kr/p/5Gc5h4
-
-newsonline
-Human Cloning
-Illustration: Human Cloning
-https://flic.kr/p/ejuqqt
-
-
-
-Stephan Ridgway
-My Fathers Funeral
-Photos of my Fathers funeral held in Berri, South Australia 13 July 2009 at the Berri Lawn Cemetery
-https://flic.kr/p/6ErLLQ
-
-Gohsuke Takama
-NFC seal IMAG0351
-https://flic.kr/p/dALnqq
+London Live Online Jan 2013 by fhu also on www.thecardinaldelaville.tumblr.com and pinterest.com/thecardinaldela/london-live-online-january-... welcome
+https://flic.kr/p/dRroDq

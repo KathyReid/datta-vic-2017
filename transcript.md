@@ -14,6 +14,80 @@ If there are any hearing impaired members of the audience, let me know and I can
 
 This presentation is licensed under Creative Commons universal - you're free to share and re-use this presentation. Please use it to do awesome things.
 
+### Kathy Reid
+
+My name is Kathy Reid, and I work as an independent digital consultant. I engage with different organisations to do different pieces of work such as analysis, technical white papers, I run hackathons and work with technical communities. You can find me online @KathyReid.
+
+
+#Overview
+
+SLIDE: Ursula from the Little Mermaid
+
+So, hi! My name is Kathy and I'm a control *enthusiast*. I like controlling things. This talk though won't be about world domination, so if you were here for *that* controlling the future talk, well let's talk later :D *evil fingers*
+
+What we *are* here to talk about today is the future of user interfaces. I'm going to spend a couple of minutes going retro, so we can appreciate just how far we've come in a short period of time. Then, we're going to explore some of the newer user interface approaches that are emerging, such as;
+
+SLIDE: Overview of topics covered
+
+* conversational user interfaces and speech recognition - and I'm going to let you play with Dino here - a toy which uses speech recognition to keep children entertained and learning.
+
+* we'll talk about the rise of natural user interfaces - things like gesture control - everyone remember Minority Report, where Tom Cruise was controlling things on screen like this *demonstrates gesture control*? I've also got my Ninja Sphere here and will show you how that works.
+
+* we're also going to chat a little bit about emotional user interfaces, and neural interfaces, and how they're developing. Who wants to control your devices with the POWER OF YOUR MIND???!!! :-)
+
+* we're going to explore some of the different characteristics, commonalities and differences in user interface development, and do some thinking around what it will mean to control your environment in the future.
+
+## Questions
+
+I'd love to hear your questions, however I think for the ease of microphones and audio, do write them down or remember them, and I'd be delighted to respond to them at the end of the talk.
+
+
+# History
+
+So, to see where we're going, let's spend a brief moment going back, BACK IN TIME!
+
+SLIDE: Punch cards
+
+Some of you may be seasoned enough to remember punch cards - anyone? With punch cards you literally had to punch holes into these cards, then load a bunch of them into a computer which was about the size of a house, and wait to see if you had a syntax error, then repeat the process when you realised you'd missed a semicolon. *sigh*
+
+SLIDE: Old fashioned keyboards
+
+Then came these
+
+SLIDE: Macintosh mouse
+
+And then we had graphics input devices
+
+SLIDE: Wacom graphics tablet
+
+And then we had touch screen devices themselves, such as phones and tablets
+
+SLIDE: ASUS Transformer Trio
+
+This is actually the device I'm using today
+
+So basically for the last 10 years or so, we haven't seen any massive paradigm shifts in user interfaces. The input devices themselves have got incrementally more useful and more sophisticated, we have wireless, we have bluetooth, we have less cords - which is great.
+
+# Trends and the drivers for user interface paradigm shifts
+
+But there's a number of trends which are driving changes in user interface paradigms. Let's have a look at them.
+
+## Mobile
+
+SLIDE: Lego chains
+
+Firstly, we're not chained to our desks anymore. We work mobile. We have laptops, smartphones, wearables - and if you saw my talk at BuzzConf festival last year, you'll know that soon we'll all have implantables as well!
+
+So we need user interfaces that move with us.
+
+Secondly, we don't want to carry a range of user input devices with us - we're mobile. We're commuting in trains, we're hot desking even if the organisations we work for have actual offices, we're working from coffee shops. We need the user interface to fit where we're working - or playing from - right now.
+
+SLIDE: infra red keyboard
+
+
+
+
+
 
 # Notes
 Gartner  from graphical UI to environmental UI - using the environment to control systems
