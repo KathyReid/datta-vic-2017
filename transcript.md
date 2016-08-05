@@ -50,6 +50,8 @@ SLIDE: Punch cards
 
 Some of you may be seasoned enough to remember punch cards - anyone? With punch cards you literally had to punch holes into these cards, then load a bunch of them into a computer which was about the size of a house, and wait to see if you had a syntax error, then repeat the process when you realised you'd missed a semicolon. *sigh*
 
+Then came these
+
 SLIDE: Old fashioned keyboards
 
 Then came these
@@ -66,11 +68,11 @@ SLIDE: ASUS Transformer Trio
 
 This is actually the device I'm using today
 
-So basically for the last 10 years or so, we haven't seen any massive paradigm shifts in user interfaces. The input devices themselves have got incrementally more useful and more sophisticated, we have wireless, we have bluetooth, we have less cords - which is great.
+So basically the input devices themselves have got incrementally more useful and more sophisticated, we have wireless, we have bluetooth, we have less cords - which is great.
 
 # Trends and the drivers for user interface paradigm shifts
 
-But there's a number of trends which are driving changes in user interface paradigms. Let's have a look at them.
+But there's a number of key trends which are driving changes in user interface paradigms. Let's have a look at them.
 
 ## Mobile
 
@@ -83,6 +85,24 @@ So we need user interfaces that move with us.
 Secondly, we don't want to carry a range of user input devices with us - we're mobile. We're commuting in trains, we're hot desking even if the organisations we work for have actual offices, we're working from coffee shops. We need the user interface to fit where we're working - or playing from - right now.
 
 SLIDE: infra red keyboard
+
+A keyboard that goes where you go!
+
+## Contexts
+
+Another key trend is that we're leading active, on-the-go lifestyles, with our time sliced into ever-thinner wedges. 'Always-on' devices, and work habits mean that the boundaries between work and personal time are blurring.
+
+Twenty years ago you might have got up in the morning, caught a train or bus to work, been at work for 9am, lunched at 1pm, then finished at 5pm, and commuted home. The *context boundaries* - the boundary between what was work context and what was a home context - were very clear.
+
+In today's society we're *context-switching* freqently. When we wake in the morning - which is usually with the assistance of a mobile device - the first thing we do is check the device for notifications. We might quickly respond to a few work emails to get them out of the way - context switching to work. Then as we're commuting we're in a different context again - where we might do some low value 'quick and easy tasks' on the train. At work we might have the luxury of real deep thinking time - where we don't want notifications or interruptions. At home of an evening we're in a relaxed context, where socialisation with our families is a priority.
+
+So the key theme that I'm drawing out here is that our user interfaces need to change and adapt to the *context* that we're existing in. If we're on a crowded, noisy train, we don't want to use a voice interface - because it's really difficult to do so - it's frustrating - and that means friction - the arch enemy of user interface design.
+
+# Ubiquitous computing
+
+The third key trend that I'd like to explore is *ubiquitous computing*. Just as we're mobile, and exploring all of our different contexts, computing technology is all around us, largely due to the internet of things. Our lights - with things like LIFX - our homes - thanks to things like Nest and Amazon Echo - and even our vehicles - have much more embedded and interconnected technology. 
+
+
 
 
 
