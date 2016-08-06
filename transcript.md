@@ -19,15 +19,15 @@ This presentation is licensed under Creative Commons universal - you're free to 
 My name is Kathy Reid, and I work as an independent digital consultant. I engage with different organisations to do different pieces of work such as analysis, technical white papers, I run hackathons and work with technical communities. You can find me online @KathyReid.
 
 
-#Overview
+# Overview
 
 SLIDE: Ursula from the Little Mermaid
 
 So, hi! My name is Kathy and I'm a control *enthusiast*. I like controlling things. This talk though won't be about world domination, so if you were here for *that* controlling the future talk, well let's talk later :D *evil fingers*
 
-What we *are* here to talk about today is the future of user interfaces. I'm going to spend a couple of minutes going retro, so we can appreciate just how far we've come in a short period of time. Then, we're going to explore some of the newer user interface approaches that are emerging, such as;
-
 SLIDE: Overview of topics covered
+
+What we *are* here to talk about today is the future of user interfaces. I'm going to spend a couple of minutes going retro, so we can appreciate just how far we've come in a short period of time. Then, we're going to explore some of the newer user interface approaches that are emerging, such as;
 
 * conversational user interfaces and speech recognition - and I'm going to let you play with Dino here - a toy which uses speech recognition to keep children entertained and learning.
 
@@ -94,16 +94,26 @@ Another key trend is that we're leading active, on-the-go lifestyles, with our t
 
 Twenty years ago you might have got up in the morning, caught a train or bus to work, been at work for 9am, lunched at 1pm, then finished at 5pm, and commuted home. The *context boundaries* - the boundary between what was work context and what was a home context - were very clear.
 
+SLIDE: Slices of different context
+
 In today's society we're *context-switching* freqently. When we wake in the morning - which is usually with the assistance of a mobile device - the first thing we do is check the device for notifications. We might quickly respond to a few work emails to get them out of the way - context switching to work. Then as we're commuting we're in a different context again - where we might do some low value 'quick and easy tasks' on the train. At work we might have the luxury of real deep thinking time - where we don't want notifications or interruptions. At home of an evening we're in a relaxed context, where socialisation with our families is a priority.
 
 So the key theme that I'm drawing out here is that our user interfaces need to change and adapt to the *context* that we're existing in. If we're on a crowded, noisy train, we don't want to use a voice interface - because it's really difficult to do so - it's frustrating - and that means friction - the arch enemy of user interface design.
 
-# Ubiquitous computing
+## Ubiquitous computing
 
-The third key trend that I'd like to explore is *ubiquitous computing*. Just as we're mobile, and exploring all of our different contexts, computing technology is all around us, largely due to the internet of things. Our lights - with things like LIFX - our homes - thanks to things like Nest and Amazon Echo - and even our vehicles - have much more embedded and interconnected technology. 
+The third key trend that I'd like to explore is *ubiquitous computing*. Just as we're mobile, and exploring all of our different contexts, computing technology is all around us, largely due to the internet of things. Our lights - with things like LIFX - our homes - thanks to things like Nest and Amazon Echo - and even our vehicles - have much more embedded and interconnected technology.
+
+Combine this with both mobility and context-switching, and suddenly we have user interfaces all around us. We plan our day and our journeys on our mobile device. We swipe on with our Myki on the bus or the train. We get coffee or fast food by ordering from a touch screen. Our buildings increasingly have technology, such as proximity sensors and beacons. We're surrounded by user interfaces.
 
 
 
+This means that user int
+
+
+### Too many user interfaces and having to learn them all
+
+This raises a whole raft of very interesting questions. For instance, with so many different user interfaces - touch screens everywhere, elevators that talk to you, and pretty soon - robots that take your order or provide customer service - how many different user interfaces will you have to learn to use? Has anyone switched from a Windows Phone or Apple phone to an Android phone? How different are Cortana and Siri from say Google Now? They use different commands - different conversational UIs - which you have to relearn. So, we need some conversational UI accepted standards.
 
 
 
