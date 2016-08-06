@@ -1,23 +1,22 @@
-# Introduction
+# Controlling the Future - BuzzConf Nights August 2016
 
-### Welcome to country
+## Welcome to country
 
 I wish to begin by acknowledging the Wurundjeri people, the traditional owners of the land on which we are gathered today. We pay our respects to the local people for allowing us to have our gathering on their land and to their Elders; past, present and future.
 
 Thanks everyone for coming today, and a huge thanks to Ben and Rick for convening an event as amazing as Buzzconf Nights.
 
-### Audio impaired
+## Audio impaired
 
 If there are any hearing impaired members of the audience, let me know and I can provide you with a transcript of the presentation to follow along to.
 
-### License
+## License
 
 This presentation is licensed under Creative Commons universal - you're free to share and re-use this presentation. Please use it to do awesome things.
 
-### Kathy Reid
+## Kathy Reid
 
 My name is Kathy Reid, and I work as an independent digital consultant. I engage with different organisations to do different pieces of work such as analysis, technical white papers, I run hackathons and work with technical communities. You can find me online @KathyReid.
-
 
 # Overview
 
@@ -104,11 +103,31 @@ So the key theme that I'm drawing out here is that our user interfaces need to c
 
 The third key trend that I'd like to explore is *ubiquitous computing*. Just as we're mobile, and exploring all of our different contexts, computing technology is all around us, largely due to the internet of things. Our lights - with things like LIFX - our homes - thanks to things like Nest and Amazon Echo - and even our vehicles - have much more embedded and interconnected technology.
 
-Combine this with both mobility and context-switching, and suddenly we have user interfaces all around us. We plan our day and our journeys on our mobile device. We swipe on with our Myki on the bus or the train. We get coffee or fast food by ordering from a touch screen. Our buildings increasingly have technology, such as proximity sensors and beacons. We're surrounded by user interfaces.
+Combine this with both mobility and context-switching, and suddenly we have user interfaces all around us. We plan our day and our journeys on our mobile device. We swipe on with our Myki on the bus or the train. We get coffee or fast food by ordering from a touch screen. Our buildings increasingly have technology, such as proximity sensors and beacons. We're surrounded by user interfaces - it's not just computing that's ubiquitous, user interfaces are ubiquitous too.
+
+## Key areas of user interface development
+
+### Speech recognition and voice control
+
+Give examples - Siri, Cortana ,Google Now, Skype automatic translate. As anyone who's participated in a video conference knows, you can tolerate poor video better than you can tolerate poor audio. Busy, crowded street,s and noisy open plan offices, and speech recognition becomes more difficult.
+
+#### Cognitoys Dino
+
+One of the ways that speech recognition is being incorporated as a user interface is in toys. We're now starting to see toys, such as the Elemental Path Cognitoys Dino, use voice recognition combined with things like artificial intelligence to provide both a learning and entertainment experience.
+
+DEMONSTRATION of the Cognitoys Dino
+
+We're starting to see now
+
+### Conversational UI
+
+## Gesture control and other natural user interfaces
+
+# Implications for consideration
+
+### User interfaces that talk to each other
 
 
-
-This means that user int
 
 
 ### Too many user interfaces and having to learn them all
