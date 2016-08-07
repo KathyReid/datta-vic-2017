@@ -22,7 +22,7 @@ My name is Kathy Reid, and I work as an independent digital consultant. I engage
 
 SLIDE: Ursula from the Little Mermaid
 
-So, hi! My name is Kathy and I'm a control *enthusiast*. I like controlling things. This talk though won't be about world domination, so if you were here for *that* controlling the future talk, well let's talk later :D *evil fingers*
+So, hi! I'm a control *enthusiast*. I like controlling things. This talk though won't be about world domination, so if you were here for *that* controlling the future talk, well let's talk later :D *evil fingers*
 
 SLIDE: Overview of topics covered
 
@@ -71,7 +71,7 @@ So basically the input devices themselves have got incrementally more useful and
 
 # Trends and the drivers for user interface paradigm shifts
 
-But there's a number of key trends which are driving changes in user interface paradigms. Let's have a look at them.
+But there's a number of key trends which are driving changes in user interface paradigms - paradigm shifts as opposed to incremental changes. Let's have a look at them.
 
 ## Mobile
 
@@ -101,15 +101,21 @@ So the key theme that I'm drawing out here is that our user interfaces need to c
 
 ## Ubiquitous computing
 
+SLIDE: LIFX - technology is all around us
+
 The third key trend that I'd like to explore is *ubiquitous computing*. Just as we're mobile, and exploring all of our different contexts, computing technology is all around us, largely due to the internet of things. Our lights - with things like LIFX - our homes - thanks to things like Nest and Amazon Echo - and even our vehicles - have much more embedded and interconnected technology.
+
+SLIDE: Tesla Model S - vehicle technology
 
 Combine this with both mobility and context-switching, and suddenly we have user interfaces all around us. We plan our day and our journeys on our mobile device. We swipe on with our Myki on the bus or the train. We get coffee or fast food by ordering from a touch screen. Our buildings increasingly have technology, such as proximity sensors and beacons. We're surrounded by user interfaces - it's not just computing that's ubiquitous, user interfaces are ubiquitous too.
 
 ## Key areas of user interface development
 
+So, now that we've explored some of the overall trends that are shaping user interface technology, let's take a look at some of the emerging technologies in this space. 
+
 ### Speech recognition and voice control
 
-Give examples - Siri, Cortana ,Google Now, Skype automatic translate. As anyone who's participated in a video conference knows, you can tolerate poor video better than you can tolerate poor audio. Busy, crowded street,s and noisy open plan offices, and speech recognition becomes more difficult.
+Give examples - Siri, Cortana ,Google Now, Skype automatic translate. As anyone who's participated in a video conference knows, you can tolerate poor video better than you can tolerate poor audio. Busy, crowded streets and noisy open plan offices, and speech recognition becomes more difficult.
 
 #### Cognitoys Dino
 
