@@ -73,4 +73,12 @@ Computer Keyboard
 Long Exposure
   https://flic.kr/p/idr62E
 
-  
+
+
+  Meena Kadri
+  Blind Man Walking
+
+  Bicycle bell re-purposed for a blind-man's walking cane. Spotted near Mangaldas Market.
+
+  Featured in the BlowUp Bombay exhibition and on Core 77.
+https://flic.kr/p/852RWv

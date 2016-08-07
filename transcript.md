@@ -103,6 +103,17 @@ In today's society we're *context-switching* freqently. When we wake in the morn
 
 So the key theme that I'm drawing out here is that our user interfaces need to change and adapt to the *context* that we're existing in. If we're on a crowded, noisy train, we don't want to use a voice interface - because it's really difficult to do so - it's frustrating - and that means friction - the arch enemy of user interface design.
 
+A researcher called HABER had a well thought through way of categorising these contexts;
+
+* intimate space
+* personal space
+* social space
+* public space
+
+User interfaces need to know which ocntext they're operating in.
+
+SLIDE: If I have time on HABER's levels of context
+
 ## Ubiquitous computing
 
 SLIDE: LIFX - technology is all around us
@@ -209,10 +220,37 @@ Again, I'll leave you to ponder these questions.
 
 ## Emotional and social interfaces
 
-Perhaps one of the most fascinating areas of user interface evolution is what we're observing the emotional and social interface space - this where peoples emotional expressions, their social cues, and indeed their thoughts are being used as sensors or inputs.
+Perhaps one of the most fascinating areas of user interface evolution is what we're observing in the emotional and social interface space - this where peoples' emotional expressions, their social cues, and indeed their thoughts are being used as sensors or inputs.
 
+### Emotiv
 
+SLIDE: Emotiv
 
+Emotive is a research and consumer grade EEG - electroencephalograph - it's a wearable for your brain, and allows you to monitor, assess and research your brain's activities. It's really aimed at the research market for organisations who are doing neural research, but there's nothing to stop makers or hackers buying one and exploring it.
+
+The Emotiv is being developed as a neural control tool, and there's even a drone you can get which is thought-controlled.
+
+So yes, very soon you'll be able to control your environment with the power of your mind!
+
+SLIDE: Affectiva
+
+Another product in this space is an MIT-spinoff called Affectiva. Affectiva analyses the facial expression of a user based on a photo or video image, showing things like key emotions or the user's level of engagement with what they're watching or viewing.
+
+Immediately you can see the implications this has for things like digital signage and advertising, or if you're more altruistic, the implications for example in student engagement in education, and identifying students who might be at risk because Affectiva has identified that they're emotionally disengaged.
+
+### Considerations and implications
+
+Of course, here's some key considerations to keep in mind with these technologies also. Imagine that your cloud service is keeping data on the cognitive and neural patterns of your user base and is able to categorise or filter them in a meaningful way. Could this be manipulated at all? I'm not keen on giving the government census my name and address for them to keep, so the thought of giving a for profit company my, well, thoughts, is a little scary.
+
+And just as we've built ad blockers to filter out banners and sliders and other distractions from what we're really trying to achieve - advertising is really about disrupting the user experience - will we start to see things that block our emotions or faces from facial recognition technologies.
+
+Well, the answer is yes, and here's an example from a collection called CV Dazzle by Adam Harvey
+
+SLIDE: Facial recognition disrupting makeup
+
+### When UIs collide
+
+Another point to ponder is what happens when user interfaces collide? For instance if you have a facial recognition user interface that can identify your emotions, will a voice based user interface change to better calibrate to your mood? For instance, if you're upset or angry, will the voice interface use a more soothing tone?
 
 ## Wearable interfaces
 
@@ -220,21 +258,21 @@ One of the last types of interface I'm going to speak briefly about is wearable 
 
 ### Lilypad and Arduino wearables
 
-For those of you of the open hardware persuasion, you may have experimented with technology like Arduino Lilypad - small electronic devices intended to be sewn into fabric using conductive thread - and controlled by a range of sensors such as accelerometers, light sensors and temperature sensors.
+SLIDE: Arduino Lilypad
 
-SLIDE: Arduino Lilyapd
+For those of you of the open hardware persuasion, you may have experimented with technology like Arduino Lilypad - small electronic devices intended to be sewn into fabric using conductive thread - and controlled by a range of sensors such as accelerometers, light sensors and temperature sensors.
 
 ### Project Jacquard
 
-One of the most interesting advances in this space is from Google again - where they've taken a step forward, but not just sewing hardware components into fabric, but by weaving conductive material into the fabric itself, so that you can use gestures on the fabric to control devices.
-
 SLIDE: Project Jacquard
+
+One of the most interesting advances in this space is from Google again - where they've taken a step forward, but not just sewing hardware components into fabric, but by weaving conductive material into the fabric itself, so that you can use gestures on the fabric to control devices.
 
 Pretty amazing stuff, hey?
 
 ## Next steps and considerations
 
-So, we've covered a huge range of advances and considerations in user interfaces and what the future may look like for interacting with devices, machines, bots - and indeed, each other.
+So, we've covered a huge range of advances and considerations in user interfaces and what the future may look like for interacting with devices, machines, bots, our environment - and indeed, each other.
 
 So to finish up, I'd like to again pose some questions and threads for further consideration.
 
@@ -242,83 +280,80 @@ So to finish up, I'd like to again pose some questions and threads for further c
 
 SLIDE: Keyboard chaos
 
-For instance, with so many different user interfaces - touch screens everywhere, elevators that talk to you, and pretty soon - robots that take your order or provide customer service - how many different user interfaces will you have to learn to use? Has anyone switched from a Windows Phone or Apple phone to an Android phone? How different are Cortana and Siri from say Google Now? They use different commands - different conversational UIs - which you have to relearn.
+For instance, with so many different user interfaces - touch screens everywhere, elevators that talk to you, and pretty soon - robots that take your order or provide customer service - how many different user interfaces will you have to learn to use?
 
 There's a real paradox here - one of the key principles of user interface design and interaction design is to reduce the friction for the user - to enable them to do what they want to do quicker, easier, cheaper - and with more delight - to actually *enjoy* using whatever device they're using. But by having so many different devices, with different user interfaces, it's actually making it harder at a macro scale for people - we're overloading people with different interfaces.
 
+Just to underscore the point - we're not *replacing* one type of user interface with another. Conversational UIs and touch screens and even wearable technologies are not going to replace keyboards and mice and game controllers - at least not in the short term. We'll be using emerging user interfaces *in addition* to the ones that already exist.
+
 So how, as an industry are we going to respond to that?  
 
-Is everyone familiar with BootStrap - a web based user interface framework? Right, so I think what we're going to see is the emerging of a multimodal user interface and interaction pattern - something akin to BootStrap for gestures and microgestures, conversational UI standards, and even some emerging design standards for things like wearable interfaces. What we need to do is stop inventing interaction languages, because it's causing a Tower of Babel type effect at a macro scale.
+Is everyone familiar with BootStrap - a web based user interface framework? Right, so I think what we're going to see is the emergence of a multimodal user interface and interaction pattern - something akin to BootStrap for gestures and microgestures, conversational UI standards, and even some emerging design standards for things like wearable interfaces. What we need to do is stop inventing interaction languages, because it's causing a Tower of Babel type effect at a macro scale.
 
+I think we're also going to see the rise of *interaction families* that are aligned with brands. Interaction families will have a personality or flavour - for instance a corporate with a focus on efficiency may have an interaction family which is spartan, quick, with a minimum of movement or sound. A more social or fun brand may have an interaction family which focuses on lots of verbal interaction or fun gestures.
 
+### Accessibility and usability
 
+SLIDE: Walking stick
 
+We also have to be mindful of digital inclusion and the digital divide. We have a multicultural, aging population, with varying degrees of physical ability and varying capabilities with other senses such as sight, touch and hearing. As we build new and emerging user interfaces, we need to think carefully about who is being advantaged and disadvantaged by those interfaces.
 
-# Notes
-Gartner  from graphical UI to environmental UI - using the environment to control systems
-Drivers for change in user interfaces - computing has moved away from the desktop and into mobile devices and wearables - we're no longer at our desks - but the GUI remains, albeit with a touch interface on phones.
-Touch interface also seen on wearables - for instance, you tap your fitbit to get information displayed.
-What about the Pebble - with the pebble it's still the push of a button to control the interface - but the content is actually driven from a second devices
-This could be a good segue into Machine 2 Machine interface - one machine controlling another in response to environmental stimuli.
+It's called *human* computer interaction, not *English-speaking-rich-able-bodied-computer-interaction*.
 
-Adoption - many different people are adopting technology - different languages, different cultural context and different physical abilities - for intance an aging population, who may have difficulty with text, or medical conditions such as stroke which may impair speech.
+Our social policy makers will need to step in where there isn't a commercial imperative to consider these issues.
 
-Sophistication - people are becoming more accepting of technology and are adopting it in many different use cases - they *expect* more user interfaces.
+## Conclusion
 
-Is this complexity a bad thing? Interfaces are interaction languages - with a syntax and expected response - if I double click this element, then it should respond in this way. Is the explosion of different ways to interface with systems becoming a burden - a cognitive burden? Or will our brains be elastic and just attune or adjust to the propagation of so many different interfaces? Do we need to stop or deprecate some of the interfaces we have to make room?
+So, in conclusion there are three trends that are driving user interface evolutions;
 
-Evolution of the desktop interface - touch gestures - pinch, zoom, twist
-Use of scribes, pens, surface 3 - perhaps our fingers are too fat.
-We're still a little way away from the Minority report style gesture control - but with things like the Kinect it's likely to be here soon.
+* mobility
+* context switching
+* ubiquitous computing
 
-For all the talk of gesture control, tablet control etc, there's still research and development going on established devices - such as keyboards.
+and we're seeing the emergence of new types of user interfaces in;
 
-Source Citation   (MLA 7th Edition)
-Ishii, Hiroshi. "The tangible user interface and its evolution." Communications of the ACM June 2008: 32+. Expanded Academic ASAP. Web. 4 Aug. 2016.
-URL
-http://ezproxy.deakin.edu.au/login?url=http://go.galegroup.com/ps/i.do?id=GALE%7CA180723121&v=2.1&u=deakin&it=r&p=EAIM&sw=w&asid=fb21fefd9560c521ad947e3f566a958c
+* speech recognition and conversational UIs
+* gesture control and natural user interfaces
+* emotional and cognitive user interfaces
+* and fabric and wearable based interfaces
 
+Like any advances we need to carefully consider their implications. *How* we harness these technologies will shape the future we want to see. Use your control wisely.
 
-Koskela - *pattern control* versus *instant control*
-context aware functions - context menus - but now we're seein physical context - environmental UIs.
+Thank you very much.
 
-What happens when environmental UIs and emotional UIs collide?
-Conversational UIs that can tell when people are pissed off?
-Will the colour of digital signage change to something more soothing?
-
-Trust in the user interface - what happens then the user interface is not just around us, but inside us?
-
-Examples of kickstarter projects for keyboards
-
-https://www.kickstarter.com/projects/keyboardio/the-model-01-an-heirloom-grade-keyboard-for-seriou
-
-https://www.kickstarter.com/projects/1229573443/das-keyboard-5q-the-cloud-connected-keyboard
-
-From Gartner - "The UI shifts from GUIs attached to individual devices to an "environmental user interface," acting as a contextual user access and information delivery engine across multiple devices." - creating a proactive UI framework for the environment
-
-So what are the implications for this for practitioners
-* you don't just need a UI framework for something like web or mobile interfaces - your UI framework needs to be an *environmental interaction* framework that has seamless, familiar interfaces for things like touch, gesture control, conversational UI and digital signage, emotional response etc - it's an interaction guide, not a web user interface guide. How is this tied to branding? How many company style guides are still print based, with a concession to web user interfaces? Style guides will become interaction guides - when a sound or gesture or even conversational UI is associated with a brand.
-
-OK Google - Siri - they are part of larger brands.
-
-Just like brands - interaction families will have a personality or flavour - for instance a corporate with a focus on efficiency may have an interaction family which is spartan, quick, with a minimum of movement or sound. A more social or fun brand may have an interaction family which focuses on lots of verbal interaction or fun gestures.
-
-Location awareness and gaze tracking are needed for speech recognition - Microsoft paper - early 2000s
-
-Ninja sphere - gesture control and swiping
-Cognitoys Dino - voice recognition - toy interface design
-Wiimote - take in the Wiimote to show off
-
-Haber et al - intimate space, personal space, social space, public space - does the user interface know which one it's operating in?
-
-http://developer.affectiva.com/ - emotional API
-
-
-
-
-
-
-
-# Overview
+END TRANSCRIPT
 
 # References
+
+* Boehm, J. (2012). Natural user interface sensors for human body measurement. International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences, 39, 531–536.
+Braga, M. (n.d.). Here’s What’s Holding Back Your Universal Translator | Motherboard. Retrieved August 7, 2016, from http://motherboard.vice.com/read/heres-whats-holding-back-your-universal-translator
+
+* Brownlee, J. (n.d.). Conversational Interfaces, Explained | Co.Design | business + design. Retrieved August 7, 2016, from http://www.fastcodesign.com/3058546/conversational-interfaces-explained
+
+* Brumitt, B., & Cadiz, J. J. (2001). Let there be light" examining interfaces for homes of the future. In Human Computer Interaction. INTERACT’01. IFIP TC. 13 International Conference on Human Computer Interaction. IOS Press, Amsterdam, Netherlands; 2001; xxvii+ 897 pp (pp. 375–82).
+
+* David W. Cearley. (n.d.). The Evolving User Interface From Graphical UI to Environmental UI - Gartner Research ID G00138271. Retrieved August 3, 2016, from https://www.gartner.com/doc/490171/evolving-user-interface-graphical-ui
+
+* Delimarschi, D., Swartzendruber, G., & Kagdi, H. (2014). Enabling integrated development environments with natural user interface interactions. In Proceedings of the 22nd International Conference on Program Comprehension (pp. 126–129). ACM.
+
+* Haber, J., Greening, M., Castellano, L., & Wheaton, P. (n.d.). Proxemic Conversational UI: Moving beyond simple conversation.
+
+* Harris, R. A. (2004). Voice interaction design: crafting the new conversational speech systems. Elsevier.
+
+* Jackie Fenn, Alexander Linden, Steve Cramoysan, Toby Bell, & Bern Elliot. (n.d.). Hype Cycle for Human-Computer Interaction, 2005 Gartner Research ID G00128069. Retrieved August 3, 2016, from https://www.gartner.com/doc/481880?ref=ddisp
+
+* Jain, J., Lund, A., & Wixon, D. (2011). The future of natural user interfaces. In CHI ’11 Extended Abstracts on Human Factors in Computing Systems (pp. 211–214). Vancouver, BC, Canada: ACM.
+
+* Koskela, T., & Väänänen-Vainio-Mattila, K. (2004). Evolution towards smart home environments: empirical evaluation of three user interfaces. Personal and Ubiquitous Computing, 8(3–4), 234–240.
+
+* Lee, E. J., Nass, C., & Brave, S. (2000). Can computer-generated speech have gender?: an experimental test of gender stereotype. In CHI’00 extended abstracts on Human factors in computing systems (pp. 289–290). ACM.
+
+* Nass, C., Moon, Y., & Green, N. (1997). Are Machines Gender Neutral? Gender‐Stereotypic Responses to Computers With Voices. Journal of Applied Social Psychology, 27(10), 864–876.
+
+* Picard, R. W., Wexelblat, A., & Clifford I Nass, C. I. N. I. (2002). Future interfaces: social and emotional. In CHI’02 Extended Abstracts on Human Factors in Computing Systems (pp. 698–699). ACM.
+
+* Steinberg, G. (2012). Natural user interfaces. In ACM SIGCHI Conference on Human Factors in Computing Systems.
+
+* Štolfa, T. (n.d.). The Future of Conversational UI Belongs to Hybrid Interfaces — The Layer — Medium. Retrieved August 7, 2016, from https://medium.com/the-layer/the-future-of-conversational-ui-belongs-to-hybrid-interfaces-8a228de0bdb5#.613h0diz3
+
+* The evolution of the interface, from text through touch | Ars Technica. (n.d.). Retrieved August 4, 2016, from http://arstechnica.com/gadgets/2015/04/the-evolution-of-the-interface-from-text-through-touch/
