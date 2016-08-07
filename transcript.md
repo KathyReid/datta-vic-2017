@@ -61,6 +61,10 @@ And then we had graphics input devices
 
 SLIDE: Wacom graphics tablet
 
+And we saw advancing in entertainment and gaming technology as well
+
+SLIDE: Nintendo WiiMote
+
 And then we had touch screen devices themselves, such as phones and tablets
 
 SLIDE: ASUS Transformer Trio
@@ -125,17 +129,43 @@ However, even with a limited vocabulary there are lots of possibilities for how 
 
 #### Cognitoys Dino
 
+SLIDE: Cognitoys Dino
+
 One of those is *toys*. We're now starting to see toys, such as the Elemental Path Cognitoys Dino, use voice recognition combined with things like artificial intelligence to provide both a learning and entertainment experience.
 
 DEMONSTRATION of the Cognitoys Dino
 
-So what I'd like to do now is 
+So what I'd like to do now is give you a run through of the Dino - which uses voice recognition and the IBM Watson platform to answer questions, tell jokes and help craft stories.
 
+* How old are you?
+* Do you have any brothers and sisters?
+* What is a computer?
 
+(let the audience have a play with it)
 
 ### Conversational UI
 
+So, did you see some of the patterns that were emerging as we interacted with Dino? That's called a *conversational UI* - and you might have used one of these with tools like Slack or IRC in the past. Again, using a limited vocabulary, you're able to interact in some ways with *bots* or programs just as if you were interacting with a human.
+
+If we combine this with other trends - such as self service touch screens and kiosks in places like airports and fast food restaurants, then you can see a natural progression - you won't just have to touch for your order, you can place it as you would going through drive through - except the agent on the other side of the microphone won't be a human, they'll be an Ordering Bot :D
+
+### Implications for consideration
+
+Of course, having listening devices around you can be a little unnerving. And there's some machine ethics issues here - and I know machine ethics is one of Paul's favourite topics.
+
+SLIDE: Mirrored drives
+
+* For instance, with the CogniToys dino, what happens if the child who's using it divulges private or sensitive information? What if that information indicates they're being abused? What obligation does the platform provider hold?
+
+* How do you balance privacy with safety and security considerations? Is it feasible to think that national security agencies may want to capture or hold on to some of these conversations - for instance if the platform identifies the user as being from a particular ethnic group?
+
+* And there's a fair body of research around the types of voices we want to interact with - as humans we prefer female voices to male voices. But will having conversational UIs with predominantly female voices further condition us as a society into believing that women are to serve, rather than to be served?
+
+I'll leave you to ponder that philosophical reflection.
+
 ## Gesture control and other natural user interfaces
+
+
 
 # Implications for consideration
 
