@@ -8,7 +8,7 @@ Terminal Znakowy MERA 7951 OM Mera-ELZAB MERAMAT
 
 Zdjęcia Arkadiusz Sikorski © 2013 | / www.arq.pl/ | www.sikorski.art.pl/
 
-https://www.flickr.com/photos/arakus/8877604417/in/photolist-ewu3v8-7BkTc-rAHF2M-qdKLit-8vqT6P-qbW78-4aL19C-bdxkxc-nuxizZ-8QZwY6-cStqA7-yPc5M-9o5Ycc-8YHM7W-ewxdoo-avZseR-7QwVZK-9ASaDw-9ASaJY-5e3Jei-697j43-6aZ82b-4fjy3r-aYrDbi-9rK3oA-qzDHQr-4KKdF4-4CmBeQ-68Eagx-5ofd2r-cPjP47-793WmJ-ovRfd8-8mi6aq-8xyzJd-dES9JZ-oxhkBB-6Jjd63-hoUCod-4tQEUS-qTKdp-igsDw9-8GaC9h-aJugdP-7wxduC-4owCYw-aJwUfX-7DQ3RH-5dAhD1-aJwNjn
+https://flic.kr/p/ewu3v8
 
 Marcin Wichary
 Macintosh mouse

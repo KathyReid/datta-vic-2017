@@ -10,13 +10,15 @@ Thanks everyone for coming today, and a huge thanks to Ben and Rick for convenin
 
 If there are any hearing impaired members of the audience, let me know and I can provide you with a transcript of the presentation to follow along to.
 
+## Kathy Reid
+
+My name is Kathy Reid, and I work as an independent digital consultant. I engage with different organisations to do different pieces of work such as analysis, technical white papers, I run hackathons and work with technical communities. You can find me online @KathyReid.
+
 ## License
 
 This presentation is licensed under Creative Commons universal - you're free to share and re-use this presentation. Please use it to do awesome things.
 
-## Kathy Reid
 
-My name is Kathy Reid, and I work as an independent digital consultant. I engage with different organisations to do different pieces of work such as analysis, technical white papers, I run hackathons and work with technical communities. You can find me online @KathyReid.
 
 # Overview
 

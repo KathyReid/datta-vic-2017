@@ -773,7 +773,7 @@ h2 {
 }
 
 h3 {
-  font-size: 400%;
+  font-size: 300%;
   font-weight: lighter;
   color: #666062;
   margin: 1% 0 0 0;
@@ -793,24 +793,8 @@ h1 {
 }
 
 
-#ENIAC {
-  background-image: url(../img/Two_women_operating_ENIAC.gif);
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-color: #666062;
-  opacity: 0.9;
-}
-
-#GraceHopperBug {
-  background-image: url(../img/2842497804_811ab5ee71_o.png);
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-color: #666062;
-  opacity: 0.9;
-}
-
-#IBM608 {
-  background-image: url(../img/608.jpg);
+#Ursula {
+  background-image: url(../img/ursula.jpg);
   background-repeat: no-repeat;
   background-position: center center;
   background-color: #666062;
@@ -825,32 +809,24 @@ h1 {
   opacity: 0.9;
 }
 
-#Ninja {
-  background-image: url(../img/4764534850_fecfe98831_o.jpg);
+#OldKeyboards {
+  background-image: url(../img/8877604417_b9b6b4d4a7_o.jpg);
   background-repeat: no-repeat;
   background-position: center center;
   background-color: #666062;
   opacity: 0.9;
 }
 
-#ZXSpectrum {
-  background-image: url(../img/ZXSpectrum48k.jpg);
+#OldMouse {
+  background-image: url(../img/3655725631_c4b22591d8_o.jpg);
   background-repeat: no-repeat;
   background-position: center center;
   background-color: #666062;
   opacity: 0.9;
 }
 
-#HighTops {
-  background-image: url(../img/Adidas_Conductor_High_Olympics_1988_re-edition_sneakers.jpg);
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-color: #666062;
-  opacity: 0.9;
-}
-
-#TimBernersLee {
-  background-image: url(../img/16662336315_bc557234cb_o.jpg);
+#GraphicsTablet {
+  background-image: url(../img/32297652788_8cf74c5c40_o.jpg);
   background-repeat: no-repeat;
   background-position: center center;
   background-color: #666062;
@@ -1002,11 +978,11 @@ LungOnAChip
 
 .attribution {
 
-  font-size: 70%;
-  color: #D7D4CD;
-  text-shadow: 1px 1px black;
+  font-size: 80%;
+  color: black;
+  text-shadow: 1px 1px white;
   position: relative;
-  top: 70%;
+  top: 85%;
 
 }
 
