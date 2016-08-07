@@ -61,3 +61,16 @@ I'm not too sure what it was she had in her hand but it looks as if she just bou
 Mister G.C. | Street & Urban Photography
 
 https://flic.kr/p/G5fRdj
+
+
+James Marvin Phelps
+Information Overload
+
+Information Overload
+
+Computer Keyboard
+
+Long Exposure
+  https://flic.kr/p/idr62E
+
+  

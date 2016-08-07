@@ -207,20 +207,48 @@ SLIDE: Elderly woman using device
 
 Again, I'll leave you to ponder these questions.
 
+## Emotional and social interfaces
+
+Perhaps one of the most fascinating areas of user interface evolution is what we're observing the emotional and social interface space - this where peoples emotional expressions, their social cues, and indeed their thoughts are being used as sensors or inputs.
+
+
+
+
 ## Wearable interfaces
 
-One of the last types of interface I'm going to speak briefly about is wearable technology.
+One of the last types of interface I'm going to speak briefly about is wearable technology. There's a couple of technologies you might have heard about - or might have seen - that are breaking new ground by embedding user interfaces into wearable fabric - into clothes.
 
+### Lilypad and Arduino wearables
 
+For those of you of the open hardware persuasion, you may have experimented with technology like Arduino Lilypad - small electronic devices intended to be sewn into fabric using conductive thread - and controlled by a range of sensors such as accelerometers, light sensors and temperature sensors.
 
-### User interfaces that talk to each other
+SLIDE: Arduino Lilyapd
 
+### Project Jacquard
 
+One of the most interesting advances in this space is from Google again - where they've taken a step forward, but not just sewing hardware components into fabric, but by weaving conductive material into the fabric itself, so that you can use gestures on the fabric to control devices.
 
+SLIDE: Project Jacquard
+
+Pretty amazing stuff, hey?
+
+## Next steps and considerations
+
+So, we've covered a huge range of advances and considerations in user interfaces and what the future may look like for interacting with devices, machines, bots - and indeed, each other.
+
+So to finish up, I'd like to again pose some questions and threads for further consideration.
 
 ### Too many user interfaces and having to learn them all
 
-This raises a whole raft of very interesting questions. For instance, with so many different user interfaces - touch screens everywhere, elevators that talk to you, and pretty soon - robots that take your order or provide customer service - how many different user interfaces will you have to learn to use? Has anyone switched from a Windows Phone or Apple phone to an Android phone? How different are Cortana and Siri from say Google Now? They use different commands - different conversational UIs - which you have to relearn. So, we need some conversational UI accepted standards.
+SLIDE: Keyboard chaos
+
+For instance, with so many different user interfaces - touch screens everywhere, elevators that talk to you, and pretty soon - robots that take your order or provide customer service - how many different user interfaces will you have to learn to use? Has anyone switched from a Windows Phone or Apple phone to an Android phone? How different are Cortana and Siri from say Google Now? They use different commands - different conversational UIs - which you have to relearn.
+
+There's a real paradox here - one of the key principles of user interface design and interaction design is to reduce the friction for the user - to enable them to do what they want to do quicker, easier, cheaper - and with more delight - to actually *enjoy* using whatever device they're using. But by having so many different devices, with different user interfaces, it's actually making it harder at a macro scale for people - we're overloading people with different interfaces.
+
+So how, as an industry are we going to respond to that?  
+
+Is everyone familiar with BootStrap - a web based user interface framework? Right, so I think what we're going to see is the emerging of a multimodal user interface and interaction pattern - something akin to BootStrap for gestures and microgestures, conversational UI standards, and even some emerging design standards for things like wearable interfaces. What we need to do is stop inventing interaction languages, because it's causing a Tower of Babel type effect at a macro scale.
 
 
 
