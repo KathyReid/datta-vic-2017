@@ -764,8 +764,8 @@ a:focus {
 */
 
 h2 {
-  font-size: 300%;
-  color: white;
+  font-size: 350%;
+  color: black;
   text-shadow: 2px 2px #666062;
   border-bottom: 1px solid #666062;
   margin: 10px 0 0 0;
@@ -851,6 +851,22 @@ h1 {
 
 #Chained {
   background-image: url(../img/15913224501_51613afe47_o.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-color: #666062;
+  opacity: 0.9;
+}
+
+#InfraRedKeyboard {
+  background-image: url(../img/8435743498_6f24841359_o.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-color: #666062;
+  opacity: 0.9;
+}
+
+#Contexts {
+  background-image: url(../img/background-1455685_1920.jpg);
   background-repeat: no-repeat;
   background-position: center center;
   background-color: #666062;
