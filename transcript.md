@@ -111,19 +111,27 @@ Combine this with both mobility and context-switching, and suddenly we have user
 
 ## Key areas of user interface development
 
-So, now that we've explored some of the overall trends that are shaping user interface technology, let's take a look at some of the emerging technologies in this space. 
+So, now that we've explored some of the overall trends that are shaping user interface technology, let's take a look at some of the emerging technologies in this space.
 
 ### Speech recognition and voice control
 
-Give examples - Siri, Cortana ,Google Now, Skype automatic translate. As anyone who's participated in a video conference knows, you can tolerate poor video better than you can tolerate poor audio. Busy, crowded streets and noisy open plan offices, and speech recognition becomes more difficult.
+Without a doubt, one of the hottest technologies to emerge in this space has been speech recognition and voice control. This technology has been around for decades now, but was has been held back by a number of challenges. There are about a million words in the English language - give or take a few thousand. Now try imagining first capturing those words - perhaps in a busy cafe or where there's lots of background noise. like an open plan office. Then you need to account for intonation or accent or _emphasis on the wrong syllable_. The permutations and combinations quickly multiply into a very complex problem set.
+
+The way that speech recognition on mobile devices - Siri, Cortana, Google Now and so on aim to address this issue is by reducing the *problem space*. You know how there are a limited number of commands that you can issue to Google Now - you might ask about the weather or ask Google to add pasta sauce to your shopping list, or ask a 'who was' question. Right - so you're not using the million or so words in the English language - you're using a much smaller subset that's easier to predict - particularly if you factor in *context* - such as being geographically in a shopping centre, or near a train station.
+
+So, we're going to see the rise of speech recognition and voice commands, but for a few years they're still going to be limited in their vocabulary and what you can do with them.
+
+However, even with a limited vocabulary there are lots of possibilities for how speech recognition and voice commands will be incorporated into technology.
 
 #### Cognitoys Dino
 
-One of the ways that speech recognition is being incorporated as a user interface is in toys. We're now starting to see toys, such as the Elemental Path Cognitoys Dino, use voice recognition combined with things like artificial intelligence to provide both a learning and entertainment experience.
+One of those is *toys*. We're now starting to see toys, such as the Elemental Path Cognitoys Dino, use voice recognition combined with things like artificial intelligence to provide both a learning and entertainment experience.
 
 DEMONSTRATION of the Cognitoys Dino
 
-We're starting to see now
+So what I'd like to do now is 
+
+
 
 ### Conversational UI
 
