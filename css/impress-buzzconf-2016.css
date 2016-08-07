@@ -873,6 +873,22 @@ h1 {
   opacity: 0.9;
 }
 
+#Ubiquitous {
+  background-image: url(../img/LIFX-hanging-lighting-foyer.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-color: #666062;
+  opacity: 0.9;
+}
+
+#Tesla {
+  background-image: url(../img/Tesla_Model_S_digital_panels.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-color: #666062;
+  opacity: 0.9;
+}
+
 
 
 

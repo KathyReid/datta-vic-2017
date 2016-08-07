@@ -112,7 +112,7 @@ A researcher called HABER had a well thought through way of categorising these c
 * social space
 * public space
 
-User interfaces need to know which ocntext they're operating in.
+User interfaces need to know which context they're operating in.
 
 SLIDE: If I have time on HABER's levels of context
 
