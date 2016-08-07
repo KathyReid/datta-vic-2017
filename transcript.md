@@ -165,6 +165,20 @@ I'll leave you to ponder that philosophical reflection.
 
 ## Gesture control and other natural user interfaces
 
+SLIDE: Gesture control
+
+The next emerging type of user interface technology that we're starting to see is in the field of gesture control and *natural user interfaces*. Most of you will have used gestures such as flick, pinch, zoom, tap and double tap to use table and smart phone applications, and natural user interfaces are really an extension to this - gestures without a touch screen.
+
+Has anyone seen Minority Report - where the character played by Tom Cruise is using gestures like swipe and pinch and zoom, as part of the user interface? That's the sort of thing we're talking about here.
+
+And it's closer than you might think.
+
+### LEAP Motion and Kinect
+
+SLIDE: 
+
+
+
 
 
 # Implications for consideration
