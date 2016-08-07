@@ -1,7 +1,7 @@
 
 clement127
 Chained
-https://www.flickr.com/photos/clement127/15913224501/in/photolist-qfcreF-6JLiFq-6HyLVz-8H9mxb-PMm5z-cZxis7-q7Jt5d-75xGxj-7TM6Kq-74kr9F-cxi6yf-7Ki31g-istFxY-7J6RvM-77oSQ4-2Hi6hS-82qWxi-fvnnP9-5nWz4o-AEFWT-qK337m-aiick-q9rF5r-rSdFLj-ohhk4h-9tTkt-oJj6fj-aUieVt-npWswY-6GZ9Uy-nF1eMJ-7xasj7-gzf7Ap-b2cN6r-99xoBV-97Aq2T-bsYnTi-ajgAN9-4sT9hP-jVGTAY-dKAXEj-7eWEBv-g3NT71-HVQvX-edRxw3-6tmSW6-jP2Adr-q79rW9-7hEf56-r4a1WD
+https://flic.kr/p/qfcreF
 
 Arkadiusz Sikorski
 Terminal Znakowy MERA 7951 OM Mera-ELZAB MERAMAT

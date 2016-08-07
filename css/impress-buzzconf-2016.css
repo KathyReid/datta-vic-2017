@@ -826,116 +826,37 @@ h1 {
 }
 
 #GraphicsTablet {
-  background-image: url(../img/32297652788_8cf74c5c40_o.jpg);
+  background-image: url(../img/2297652788_8cf74c5c40_o.jpg);
   background-repeat: no-repeat;
   background-position: center center;
   background-color: #666062;
   opacity: 0.9;
 }
 
-#iMac {
-  background-image: url(../img/IMac_Bondi_Blue.jpg);
+#WiiMote {
+  background-image: url(../img/Wiimote-in-Hands.jpg);
   background-repeat: no-repeat;
   background-position: center center;
   background-color: #666062;
   opacity: 0.9;
 }
 
-#AndroidPhones {
-  background-image: url(../img/6960610178_6904e73390_o.jpg);
+#TransformerTrio {
+  background-image: url(../img/Specs-Comparison-Asus-Transformer-Book-Trio-Versus-Acer-Iconia-Tab-A3-3.jpg);
   background-repeat: no-repeat;
   background-position: center center;
   background-color: #666062;
   opacity: 0.9;
 }
 
-#Genes {
-  background-image: url(../img/3080247531_561d88e2e7_o.jpg);
+#Chained {
+  background-image: url(../img/15913224501_51613afe47_o.jpg);
   background-repeat: no-repeat;
   background-position: center center;
   background-color: #666062;
   opacity: 0.9;
 }
 
-#Infection {
-  background-image: url(../img/31032008.jpg);
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-color: #666062;
-  opacity: 0.9;
-}
-
-#Cloning {
-  background-image: url(../img/8741880203_a8d042dac1.jpg);
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-color: #666062;
-  opacity: 0.9;
-}
-
-#LungOnAChip {
-  background-image: url(../img/Ingber.LungChip.Natu1BFFB9-2.jpg);
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-color: #666062;
-  opacity: 0.9;
-}
-
-#Death {
-  background-image: url(../img/3716839104_d9a2d5faca_b.jpg);
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-color: #666062;
-  opacity: 0.9;
-}
-
-#DangerousThings {
-  background-image: url(../img/dangerous-things-plant.jpg);
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-color: #666062;
-  opacity: 0.9;
-}
-
-#Northstar {
-  background-image: url(../img/1447093963115141.gif);
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-color: #666062;
-  opacity: 0.9;
-}
-
-#Circadia {
-  background-image: url(../img/circadia.jpg);
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-color: #666062;
-  opacity: 0.9;
-}
-
-#CircadiaImplanted {
-  background-image: url(../img/circadia-implanted.jpg);
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-color: #666062;
-  opacity: 0.9;
-}
-
-#KarenSandler {
-  background-image: url(../img/Karen_Sandler_-_FSCONS_2013_1.jpeg);
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-color: #666062;
-  opacity: 0.9;
-}
-
-#NearField {
-  background-image: url(../img/nfc.jpg);
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-color: #666062;
-  opacity: 0.9;
-}
 
 
 
