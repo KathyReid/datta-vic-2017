@@ -161,7 +161,9 @@ SLIDE: Mirrored drives
 
 * And there's a fair body of research around the types of voices we want to interact with - as humans we prefer female voices to male voices. But will having conversational UIs with predominantly female voices further condition us as a society into believing that women are to serve, rather than to be served?
 
-I'll leave you to ponder that philosophical reflection.
+* And what happens if you have a speech impediment - such as stuttering - or difficulties with language. Are you going to be marginalised because you don't have a mainstream voice? How will standards such as WCAG and WAI-ARIA respond to these challenges?
+
+I'll leave you to ponder these philosophical reflections.
 
 ## Gesture control and other natural user interfaces
 
@@ -175,13 +177,41 @@ And it's closer than you might think.
 
 ### LEAP Motion and Kinect
 
-SLIDE: 
+SLIDE: LEAP Motion
+
+Technologies like LEAP Motion and Kinect map gestures in real time, using a variety of technologies such as Bluetooth sensing, infra red and cameras which can sense depth of field. For instance, by disrupting an infra red field, and tracking movements over time, the devices can infer movement.
+
+### Project Soli
+
+SLIDE: Project Soli
+
+One of the most exciting advances I've seen in recent months has been Project Soli by Google. Instead of using infra red or depth of field cameras, Project Soli is using radar to detect and map gestures. The benefit of this is that radar has very high positional accuracy, providing greater degrees of precision for very minor, small gestures. This is still in R&D, so I wouldn't expect to see a production release for a couple of years.
+
+### Ninja Sphere
+
+SLIDE: Ninja Sphere
+
+But it's not only the giants like Google who've been experimenting with gesture control. Some of you in the room may have been early adopters of the Ninja Sphere - a gesture based device that allowed room automation at the flick of a hand.
+
+DEMONSTRATION OF NINJA SPHERE - if we can get it working at BuzzConf Nights
+
+### Implications for consideration
+
+Of course, gesture based interfaces come with their own set of considerations.
+
+* What if the user has limited mobility? What if they only have a limited range of movement?
+
+SLIDE: Elderly woman using device
+
+* As our population ages, we're seeing the rise of chronic, age-related conditions. For instance, in Type 2 diabetes, one of the complications that can be experienced is peripheral neuropathy - where there's a loss of sensation in fingers and toes. If our devices need to be controlled by micro-gestures, and micro-gestures are more difficult for people with these sorts of conditions, are we creating barriers to technology? We already have a fairly significant digital divide between the digital haves and the digital have-nots. Do natural user interfaces so natural after all?
+
+Again, I'll leave you to ponder these questions.
+
+## Wearable interfaces
+
+One of the last types of interface I'm going to speak briefly about is wearable technology.
 
 
-
-
-
-# Implications for consideration
 
 ### User interfaces that talk to each other
 

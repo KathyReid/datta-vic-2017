@@ -28,3 +28,36 @@ infrared keyboard on a table for your iPhone
 
 London Live Online Jan 2013 by fhu also on www.thecardinaldelaville.tumblr.com and pinterest.com/thecardinaldela/london-live-online-january-... welcome
 https://flic.kr/p/dRroDq
+
+
+Ian Sterling
+Mirrored Drives. 127/365. (5/7/09)
+
+Stack of bad hard drives from work. (The MDD G4 was used in honor of a friend who was installing Leopard Server on his own G4 tower today.)
+https://flic.kr/p/6mnbeC
+
+0xF2
+Leap Motion Hand Tracking
+
+Leap Motion hand tracking my right hand - tracking both hands is also possible. Resolution is not bad, and it is better for movement than it is for relative position.
+https://flic.kr/p/fn6cqk
+
+
+portal gda
+project-soli
+https://flic.kr/p/DG9KbX
+
+Mister G.C.
+Keeping up with the times.
+
+Thanks for taking the time to view my image.
+
+All faves, comments and critiques are very welcome and, as always, greatly appreciated.
+
+
+I'm not too sure what it was she had in her hand but it looks as if she just bought it and had sat down for a cigarette and a play with the new electronic device.
+
+
+Mister G.C. | Street & Urban Photography
+
+https://flic.kr/p/G5fRdj
