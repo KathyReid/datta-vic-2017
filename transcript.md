@@ -1,5 +1,10 @@
 # Controlling the Future - BuzzConf Nights August 2016
 
+## Presentation checklist
+
+* CogniToys dino powered up and ready
+* NinjaSphere powered up and ready
+
 ## Welcome to country
 
 I wish to begin by acknowledging the Wurundjeri people, the traditional owners of the land on which we are gathered today. We pay our respects to the local people for allowing us to have our gathering on their land and to their Elders; past, present and future.

@@ -889,6 +889,102 @@ h1 {
   opacity: 0.9;
 }
 
+#CogniToys {
+  background-image: url(../img/NEW-CogniToys_01_WEB.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-color: #666062;
+  opacity: 0.9;
+}
+
+#MirroredDevices {
+  background-image: url(../img/3512245542_538939ab77_o.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-color: #666062;
+  opacity: 0.9;
+}
+
+#LEAPMotion {
+  background-image: url(../img/9427655143_6328eed30f_o.png);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-color: #666062;
+  opacity: 0.9;
+}
+
+#ProjectSoli {
+  background-image: url(../img/24739566439_4d1a9dea83_o.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-color: #666062;
+  opacity: 0.9;
+}
+
+#NinjaSphere {
+  background-image: url(../img/356531cfdb9dbde0b5d30f6a81cbadf8_original.png);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-color: #666062;
+  opacity: 0.9;
+}
+
+#ElderlyWoman {
+  background-image: url(../img/26302433822_641680b50a_o.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-color: #666062;
+  opacity: 0.9;
+}
+
+#Emotiv {
+  background-image:url(../img/Emotiv-Epoc-white-background-090717_plm787.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-color: #666062;
+  opacity: 0.9;
+}
+
+#Affectiva {
+  background-image:url(../img/MIT-Affectiva-01_0.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-color: #666062;
+  opacity: 0.9;
+}
+
+#CVDazzle {
+  background-image:url(../img/CVDazzle.png);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-color: #666062;
+  opacity: 0.9;
+}
+
+#Lilypad {
+  background-image:url(../img/Arduino_LightScarf.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-color: #666062;
+  opacity: 0.9;
+}
+
+#ProjectJacquard {
+  background-image:url(../img/ProjectJacquard.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-color: #666062;
+  opacity: 0.9;
+}
+
+#KeyboardChaos {
+  background-image:url(../img/11298757724_1b497efeb0_o.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-color: #666062;
+  opacity: 0.9;
+}
+
 
 
 
@@ -940,8 +1036,9 @@ LungOnAChip
 }
 
 .csl-entry {
-  font-size: 90%;
-  line-height: 130%;
-  padding: 10px 0 0 0;
-  border-bottom: 1px solid white;
+  font-size: 65%;
+  font-weight: lighter;
+  line-height: 115%;
+  padding: 10px 0 4px 0;
+  border-bottom: 0.25px solid white;
 }
