@@ -1,12 +1,13 @@
-# buzzconf-2015-presentation
+# Controlling the future
+## Emerging technologies and consideration in user interfaces
 
-A presentation on the Human Body as a development platform, delivered at BuzzConf 2015, a technical festival in Ballan, Victoria, Australia in November 2015.
+A presentation on emerging technologies such as;
+* speech recognition and conversational UIs
+* gesture control and natural user interfaces
+* emotional interfaces and neural interfaces
+* wearable electronics
 
-This presentation covers;
-
-* The history of development platforms
-* Their attributes and characteristics
-* And details the challenges and approaches for developers who work on the human body
+with discussion on considerations for how they should be adopted. 
 
 This presentation is written in impress.js;
 https://github.com/impress/impress.jshttps://github.com/impress/impress.js
