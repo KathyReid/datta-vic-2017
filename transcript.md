@@ -277,7 +277,7 @@ One of the most interesting advances in this space is from Google again - where 
 
 Pretty amazing stuff, hey?
 
-## Next steps and considerations
+## The law of unintended consequences
 
 So, we've covered a huge range of advances and considerations in user interfaces and what the future may look like for interacting with devices, machines, bots, our environment - and indeed, each other.
 
@@ -305,7 +305,7 @@ SLIDE: Walking stick
 
 We also have to be mindful of digital inclusion and the digital divide. We have a multicultural, aging population, with varying degrees of physical ability and varying capabilities with other senses such as sight, touch and hearing. As we build new and emerging user interfaces, we need to think carefully about who is being advantaged and disadvantaged by those interfaces.
 
-It's called *human* computer interaction, not *English-speaking-rich-able-bodied-computer-interaction*.
+It's called *human* computer interaction, not *English-speaking-rich-able-bodied-young-computer-interaction*.
 
 Our social policy makers will need to step in where there isn't a commercial imperative to consider these issues.
 
