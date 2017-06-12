@@ -1,9 +1,15 @@
 /*
-  - dark grey - #666062
-  - light gray - #D7D4CD
-  - warm grey - #A49B92
-  - light warm gray - #D7D4CD
 
+  COLOUR PALETTE
+  Derived from the base colour #352F27
+
+  #2B1F0E- darkest shade of taupe
+  #32281A
+  #352F27
+  #6D6356
+  #A09381
+  #C5BAAB
+  #F4ECE2
 
 */
 
@@ -39,27 +45,11 @@ time, mark, audio, video {
 /* Import fonts locally */
 
 @font-face {
-  font-family: 'Oswald';
-  src:  url(../font/Oswald-Bold.ttf) format('truetype');
-  font-weight: 700;
-  font-style: normal;
-}
-
-@font-face {
-  font-family: 'Oswald';
-  src:  url(../font/Oswald-Regular.ttf) format('truetype');
+  font-family: 'Abel';
+  src:  url(../font/Abel-Regular.ttf) format('truetype');
   font-weight: 400;
   font-style: normal;
 }
-
-@font-face {
-  font-family: 'Oswald';
-  src:  url(../font/Oswald-Light.ttf) format('truetype');
-  font-weight: 100;
-  font-style: normal;
-}
-
-
 
 /* HTML5 display-role reset for older browsers */
 article, aside, details, figcaption, figure,
@@ -96,10 +86,10 @@ table {
 body {
 
 
-    font-family: 'Oswald', sans-serif;
+    font-family: 'Abel', sans-serif;
 
     min-height: 740px;
-    background-color: #D7D4CD;
+    background-color: #C5BAAB;
     line-height: 1.2;
 
     background-image: url(../img/buzzconf-logo.svg);
@@ -108,7 +98,7 @@ body {
 }
 
 header {
-  background: #666062;
+  background: #6D6356;
   padding: 0.7%;
   position: relative;
   top: 0;
@@ -156,7 +146,7 @@ q::after {
 }
 
 q::before, q::after {
-  color: #666062;
+  color: #6D6356;
   font-weight:bolder;
   font-size: 180%;
   opacity: 0.4;
@@ -211,9 +201,9 @@ a:focus {
     padding: 10px 10px 0;
     margin: 20px auto;
 
-    border: 1px solid #666062;
+    border: 1px solid #6D6356;
     border-radius: 10px;
-    background: #D7D4CD;
+    background: #352F27;
 }
 
 .fallback-message p {
@@ -764,29 +754,29 @@ a:focus {
 h2 {
   font-size: 350%;
   color: black;
-  text-shadow: 2px 2px #666062;
-  border-bottom: 1px solid #666062;
+  text-shadow: 2px 2px #6D6356;
+  border-bottom: 1px solid #6D6356;
   margin: 10px 0 0 0;
   text-transform: capitalize;
 }
 
 h3 {
   font-size: 300%;
-  font-weight: lighter;
-  color: #666062;
+  color: #32281A;
   margin: 1% 0 0 0;
 }
 
 
 h1 {
-  font-size: 610%;
-  font-weight: 100;
-  color: #666062;
-  text-shadow: 2px 2px black;
+  font-size: 500%;
+  font-weight: 700;
+  color: #2B1F0E;
+  text-shadow: 2px 2px white;
   position: relative;
   top: 4%;
   display: inline;
   opacity: 0.9;
+  text-transform: uppercase;
 }
 
 
@@ -794,7 +784,7 @@ h1 {
   background-image: url(../img/ursula.jpg);
   background-repeat: no-repeat;
   background-position: center center;
-  background-color: #666062;
+  background-color: #6D6356;
   opacity: 0.9;
 }
 
@@ -802,7 +792,7 @@ h1 {
   background-image: url(../img/3664956027_fb535d2b34_o.jpg);
   background-repeat: no-repeat;
   background-position: center center;
-  background-color: #666062;
+  background-color: #6D6356;
   opacity: 0.9;
 }
 
@@ -810,7 +800,7 @@ h1 {
   background-image: url(../img/8877604417_b9b6b4d4a7_o.jpg);
   background-repeat: no-repeat;
   background-position: center center;
-  background-color: #666062;
+  background-color: #6D6356;
   opacity: 0.9;
 }
 
@@ -818,7 +808,7 @@ h1 {
   background-image: url(../img/3655725631_c4b22591d8_o.jpg);
   background-repeat: no-repeat;
   background-position: center center;
-  background-color: #666062;
+  background-color: #6D6356;
   opacity: 0.9;
 }
 
@@ -826,7 +816,7 @@ h1 {
   background-image: url(../img/2297652788_8cf74c5c40_o.jpg);
   background-repeat: no-repeat;
   background-position: center center;
-  background-color: #666062;
+  background-color: #6D6356;
   opacity: 0.9;
 }
 
@@ -834,7 +824,7 @@ h1 {
   background-image: url(../img/Wiimote-in-Hands.jpg);
   background-repeat: no-repeat;
   background-position: center center;
-  background-color: #666062;
+  background-color: #6D6356;
   opacity: 0.9;
 }
 
@@ -842,7 +832,7 @@ h1 {
   background-image: url(../img/Specs-Comparison-Asus-Transformer-Book-Trio-Versus-Acer-Iconia-Tab-A3-3.jpg);
   background-repeat: no-repeat;
   background-position: center center;
-  background-color: #666062;
+  background-color: #6D6356;
   opacity: 0.9;
 }
 
@@ -850,7 +840,7 @@ h1 {
   background-image: url(../img/15913224501_51613afe47_o.jpg);
   background-repeat: no-repeat;
   background-position: center center;
-  background-color: #666062;
+  background-color: #6D6356;
   opacity: 0.9;
 }
 
@@ -858,7 +848,7 @@ h1 {
   background-image: url(../img/8435743498_6f24841359_o.jpg);
   background-repeat: no-repeat;
   background-position: center center;
-  background-color: #666062;
+  background-color: #6D6356;
   opacity: 0.9;
 }
 
@@ -866,7 +856,7 @@ h1 {
   background-image: url(../img/background-1455685_1920.jpg);
   background-repeat: no-repeat;
   background-position: center center;
-  background-color: #666062;
+  background-color: #6D6356;
   opacity: 0.9;
 }
 
@@ -874,7 +864,7 @@ h1 {
   background-image: url(../img/LIFX-hanging-lighting-foyer.jpg);
   background-repeat: no-repeat;
   background-position: center center;
-  background-color: #666062;
+  background-color: #6D6356;
   opacity: 0.9;
 }
 
@@ -882,7 +872,7 @@ h1 {
   background-image: url(../img/Tesla_Model_S_digital_panels.jpg);
   background-repeat: no-repeat;
   background-position: center center;
-  background-color: #666062;
+  background-color: #6D6356;
   opacity: 0.9;
 }
 
@@ -890,7 +880,7 @@ h1 {
   background-image: url(../img/NEW-CogniToys_01_WEB.jpg);
   background-repeat: no-repeat;
   background-position: center center;
-  background-color: #666062;
+  background-color: #6D6356;
   opacity: 0.9;
 }
 
@@ -898,7 +888,7 @@ h1 {
   background-image: url(../img/3512245542_538939ab77_o.jpg);
   background-repeat: no-repeat;
   background-position: center center;
-  background-color: #666062;
+  background-color: #6D6356;
   opacity: 0.9;
 }
 
@@ -906,7 +896,7 @@ h1 {
   background-image: url(../img/9427655143_6328eed30f_o.png);
   background-repeat: no-repeat;
   background-position: center center;
-  background-color: #666062;
+  background-color: #6D6356;
   opacity: 0.9;
 }
 
@@ -914,7 +904,7 @@ h1 {
   background-image: url(../img/24739566439_4d1a9dea83_o.jpg);
   background-repeat: no-repeat;
   background-position: center center;
-  background-color: #666062;
+  background-color: #6D6356;
   opacity: 0.9;
 }
 
@@ -922,7 +912,7 @@ h1 {
   background-image: url(../img/356531cfdb9dbde0b5d30f6a81cbadf8_original.png);
   background-repeat: no-repeat;
   background-position: center center;
-  background-color: #666062;
+  background-color: #6D6356;
   opacity: 0.9;
 }
 
@@ -930,7 +920,7 @@ h1 {
   background-image: url(../img/26302433822_641680b50a_o.jpg);
   background-repeat: no-repeat;
   background-position: center center;
-  background-color: #666062;
+  background-color: #6D6356;
   opacity: 0.9;
 }
 
@@ -938,7 +928,7 @@ h1 {
   background-image:url(../img/Emotiv-Epoc-white-background-090717_plm787.jpg);
   background-repeat: no-repeat;
   background-position: center center;
-  background-color: #666062;
+  background-color: #6D6356;
   opacity: 0.9;
 }
 
@@ -946,7 +936,7 @@ h1 {
   background-image:url(../img/MIT-Affectiva-01_0.jpg);
   background-repeat: no-repeat;
   background-position: center center;
-  background-color: #666062;
+  background-color: #6D6356;
   opacity: 0.9;
 }
 
@@ -954,7 +944,7 @@ h1 {
   background-image:url(../img/CVDazzle.png);
   background-repeat: no-repeat;
   background-position: center center;
-  background-color: #666062;
+  background-color: #6D6356;
   opacity: 0.9;
 }
 
@@ -962,7 +952,7 @@ h1 {
   background-image:url(../img/Arduino_LightScarf.jpg);
   background-repeat: no-repeat;
   background-position: center center;
-  background-color: #666062;
+  background-color: #6D6356;
   opacity: 0.9;
 }
 
@@ -970,7 +960,7 @@ h1 {
   background-image:url(../img/ProjectJacquard.jpg);
   background-repeat: no-repeat;
   background-position: center center;
-  background-color: #666062;
+  background-color: #6D6356;
   opacity: 0.9;
 }
 
@@ -978,7 +968,7 @@ h1 {
   background-image:url(../img/11298757724_1b497efeb0_o.jpg);
   background-repeat: no-repeat;
   background-position: center center;
-  background-color: #666062;
+  background-color: #6D6356;
   opacity: 0.9;
 }
 
@@ -986,7 +976,7 @@ h1 {
   background-image:url(../img/4640126469_fc1ce18832_o.jpg);
   background-repeat: no-repeat;
   background-position: center center;
-  background-color: #666062;
+  background-color: #6D6356;
   opacity: 0.9;
 }
 
@@ -997,9 +987,9 @@ h1 {
 LungOnAChip
  .list-items {
 
-  border: 2px solid #666062;
+  border: 2px solid #6D6356;
   margin: 50px 0 0 0;
-  background-color: #D7D4CD;
+  background-color: #352F27;
   text-align: center;
 
 }
@@ -1009,7 +999,7 @@ LungOnAChip
 }
 
 .list-items th, .list-items td {
-  border: 2px solid #666062;
+  border: 2px solid #6D6356;
   padding: 1%;
   color: black;
   font-size: 90%;
