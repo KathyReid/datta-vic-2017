@@ -221,19 +221,14 @@ a:focus {
 */
 
 .step {
-    position: relative;
-    width: 1200px;
-    padding: 30px;
-    margin: 20px auto;
-    font-size: 150%;
 
-    opacity: 0.95;
+    min-height: 60vh;
+    min-width: 80vw;
 
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing:    border-box;
-    -ms-box-sizing:     border-box;
-    -o-box-sizing:      border-box;
-    box-sizing:         border-box;
+    top: 2vh;
+
+
+
 
 }
 
@@ -244,7 +239,7 @@ a:focus {
 */
 .impress-enabled .step {
     margin: 0;
-    opacity: 0.05;
+    opacity: 0.02;
 
     -webkit-transition: opacity 1s;
     -moz-transition:    opacity 1s;
@@ -264,18 +259,12 @@ a:focus {
     They cover everything what you see on first three steps of the demo.
 */
 .slide {
-    display: block;
 
-    width: 900px;
-    height: 700px;
-    padding: 40px 60px;
-
-    background-color: white;
-    border: 1px solid rgba(0, 0, 0, .3);
-    border-radius: 10px;
-    box-shadow: 0 2px 6px rgba(0, 0, 0, .1);
-
-    text-shadow: 0 2px 2px rgba(0, 0, 0, .1);
+  position: relative;
+  top: 0;
+  left: 0;
+  min-height: 100vh;
+  min-width: 100vw;
 
 }
 
@@ -751,24 +740,8 @@ a:focus {
 
 */
 
-h2 {
-  font-size: 350%;
-  color: black;
-  text-shadow: 2px 2px #6D6356;
-  border-bottom: 1px solid #6D6356;
-  margin: 10px 0 0 0;
-  text-transform: capitalize;
-}
-
-h3 {
-  font-size: 300%;
-  color: #32281A;
-  margin: 1% 0 0 0;
-}
-
-
 h1 {
-  font-size: 500%;
+  font-size: 700%;
   font-weight: 700;
   color: #2B1F0E;
   text-shadow: 2px 2px white;
@@ -779,220 +752,30 @@ h1 {
   text-transform: uppercase;
 }
 
-
-#Ursula {
-  background-image: url(../img/ursula.jpg);
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-color: #6D6356;
-  opacity: 0.9;
+h2 {
+  font-size: 600%;
+  color: black;
+  text-shadow: 2px 2px #6D6356;
+  border-bottom: 1px solid #6D6356;
+  margin: 10px 0 0 0;
+  text-transform: capitalize;
 }
 
-#PunchCard {
-  background-image: url(../img/3664956027_fb535d2b34_o.jpg);
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-color: #6D6356;
-  opacity: 0.9;
+h3 {
+  font-size: 500%;
+  color: #32281A;
+  margin: 1% 0 0 0;
 }
 
-#OldKeyboards {
-  background-image: url(../img/8877604417_b9b6b4d4a7_o.jpg);
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-color: #6D6356;
-  opacity: 0.9;
-}
-
-#OldMouse {
-  background-image: url(../img/3655725631_c4b22591d8_o.jpg);
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-color: #6D6356;
-  opacity: 0.9;
-}
-
-#GraphicsTablet {
-  background-image: url(../img/2297652788_8cf74c5c40_o.jpg);
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-color: #6D6356;
-  opacity: 0.9;
-}
-
-#WiiMote {
-  background-image: url(../img/Wiimote-in-Hands.jpg);
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-color: #6D6356;
-  opacity: 0.9;
-}
-
-#TransformerTrio {
-  background-image: url(../img/Specs-Comparison-Asus-Transformer-Book-Trio-Versus-Acer-Iconia-Tab-A3-3.jpg);
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-color: #6D6356;
-  opacity: 0.9;
-}
-
-#Chained {
-  background-image: url(../img/15913224501_51613afe47_o.jpg);
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-color: #6D6356;
-  opacity: 0.9;
-}
-
-#InfraRedKeyboard {
-  background-image: url(../img/8435743498_6f24841359_o.jpg);
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-color: #6D6356;
-  opacity: 0.9;
-}
-
-#Contexts {
-  background-image: url(../img/background-1455685_1920.jpg);
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-color: #6D6356;
-  opacity: 0.9;
-}
-
-#Ubiquitous {
-  background-image: url(../img/LIFX-hanging-lighting-foyer.jpg);
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-color: #6D6356;
-  opacity: 0.9;
-}
-
-#Tesla {
-  background-image: url(../img/Tesla_Model_S_digital_panels.jpg);
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-color: #6D6356;
-  opacity: 0.9;
-}
-
-#CogniToys {
-  background-image: url(../img/NEW-CogniToys_01_WEB.jpg);
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-color: #6D6356;
-  opacity: 0.9;
-}
-
-#MirroredDevices {
-  background-image: url(../img/3512245542_538939ab77_o.jpg);
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-color: #6D6356;
-  opacity: 0.9;
-}
-
-#LEAPMotion {
-  background-image: url(../img/9427655143_6328eed30f_o.png);
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-color: #6D6356;
-  opacity: 0.9;
-}
-
-#ProjectSoli {
-  background-image: url(../img/24739566439_4d1a9dea83_o.jpg);
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-color: #6D6356;
-  opacity: 0.9;
-}
-
-#NinjaSphere {
-  background-image: url(../img/356531cfdb9dbde0b5d30f6a81cbadf8_original.png);
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-color: #6D6356;
-  opacity: 0.9;
-}
-
-#ElderlyWoman {
-  background-image: url(../img/26302433822_641680b50a_o.jpg);
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-color: #6D6356;
-  opacity: 0.9;
-}
-
-#Emotiv {
-  background-image:url(../img/Emotiv-Epoc-white-background-090717_plm787.jpg);
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-color: #6D6356;
-  opacity: 0.9;
-}
-
-#Affectiva {
-  background-image:url(../img/MIT-Affectiva-01_0.jpg);
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-color: #6D6356;
-  opacity: 0.9;
-}
-
-#CVDazzle {
-  background-image:url(../img/CVDazzle.png);
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-color: #6D6356;
-  opacity: 0.9;
-}
-
-#Lilypad {
-  background-image:url(../img/Arduino_LightScarf.jpg);
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-color: #6D6356;
-  opacity: 0.9;
-}
-
-#ProjectJacquard {
-  background-image:url(../img/ProjectJacquard.jpg);
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-color: #6D6356;
-  opacity: 0.9;
-}
-
-#KeyboardChaos {
-  background-image:url(../img/11298757724_1b497efeb0_o.jpg);
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-color: #6D6356;
-  opacity: 0.9;
-}
-
-#Usability {
-  background-image:url(../img/4640126469_fc1ce18832_o.jpg);
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-color: #6D6356;
-  opacity: 0.9;
+h4 {
+  font-size: 400%;
+  color: #32281A;
+  margin: 1% 0 0 0;
 }
 
 
 
 
-
-LungOnAChip
- .list-items {
-
-  border: 2px solid #6D6356;
-  margin: 50px 0 0 0;
-  background-color: #352F27;
-  text-align: center;
-
-}
 
 .list-items thead {
   font-weight: bolder;
@@ -1021,13 +804,12 @@ LungOnAChip
 }
 
 .attribution {
-
-  font-size: 80%;
+  font-size: 200%;
   color: black;
   text-shadow: 1px 1px white;
   position: relative;
-  top: 85%;
-
+  top: 90vh;
+  left: 40vw;
 }
 
 .csl-entry {
@@ -1036,4 +818,32 @@ LungOnAChip
   line-height: 115%;
   padding: 10px 0 4px 0;
   border-bottom: 0.25px solid white;
+}
+
+#Pebble {
+  background: url(../img/10345415843_9a66c22f70_o.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+#ProjectJacquard {
+  background: url(../img/ProjectJacquard.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+#LightScarf {
+  background: url(../img/Arduino_LightScarf.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+#Implantables {
+  background: url(../img/dangerous-things-plant.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
